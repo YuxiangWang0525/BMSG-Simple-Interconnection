@@ -9,5 +9,6 @@ ReactDOM.render(
       <App />
     </React.StrictMode>
   </SnackbarProvider>,
-  document.getElementById('root')
+  document.getElementById('root');
+  console.log("welecome to BMSGSIPanel!")
 )
